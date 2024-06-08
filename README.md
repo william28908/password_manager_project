@@ -1,0 +1,1 @@
+This is a project designed to help create and manage passwords. Users can add, update, and delete the passwords they have entered which are saved in an SQL database. On the database, the passwords are encrypted which means users have to run the program, specifically the "(v)iew" option to see their actual passwords, not the encrypted ones.
